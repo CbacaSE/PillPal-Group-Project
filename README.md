@@ -51,11 +51,11 @@ PillPal is an app that helps you manage your medication schedule with ease, so y
 ---
 
 If you have any questions, you may contact me at either <br>
-Github: https://github.com/daisyle0203
+Github: https://github.com/CbacaSE
 <br>
 or
 <br>
-Email: [daisy.le0203@gmail.com](mailto:daisy.le0203@gmail.com)
+Email: [chantalbaca3@gmail.com](mailto:chantalbaca3@gmail.com)
 
 ---
 
